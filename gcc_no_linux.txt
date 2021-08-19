@@ -1,6 +1,5 @@
 
-Maria Fernanda Gouveia - Tutorial explicando como consegui 
-compilar e executar um programa em C com o GCC Ubuntu 64bits. 
+Tutorial explicando como compilar e executar um programa em C com o GCC Ubuntu 64bits. 
 
 1° Passo: Verifique se o GCC já esta em seu computador. Para isso, você
 vai no terminal e digita: gcc --help
